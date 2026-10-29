@@ -1,0 +1,109 @@
+{
+  "raw_orders": 200,
+  "raw_customers": 150,
+  "products": 7,
+  "skus": 28,
+  "status_counts": {
+    "Completed": 185,
+    "Cancelled": 9,
+    "Refunded": 6
+  },
+  "valid_orders": 185,
+  "valid_customers": 141,
+  "units": 316,
+  "revenue": 11022.7,
+  "product_summary": [
+    {
+      "product": "Classic Cotton T-Shirt",
+      "units": 92,
+      "orders": 56,
+      "revenue": 2062.8
+    },
+    {
+      "product": "Hoodie",
+      "units": 67,
+      "orders": 41,
+      "revenue": 4324.8
+    },
+    {
+      "product": "Athletic Leggings",
+      "units": 43,
+      "orders": 23,
+      "revenue": 1958.4
+    },
+    {
+      "product": "Canvas Tote Bag",
+      "units": 37,
+      "orders": 19,
+      "revenue": 619.2
+    },
+    {
+      "product": "Insulated Water Bottle",
+      "units": 33,
+      "orders": 18,
+      "revenue": 1014.4
+    },
+    {
+      "product": "Sports Baseball Cap",
+      "units": 24,
+      "orders": 15,
+      "revenue": 502.7
+    },
+    {
+      "product": "Travel Organizer Bag",
+      "units": 20,
+      "orders": 13,
+      "revenue": 540.4
+    }
+  ],
+  "state_summary": [
+    {
+      "state": "California",
+      "customers": 43,
+      "orders": 57,
+      "units": 96
+    },
+    {
+      "state": "Texas",
+      "customers": 27,
+      "orders": 42,
+      "units": 63
+    },
+    {
+      "state": "New York",
+      "customers": 24,
+      "orders": 27,
+      "units": 47
+    },
+    {
+      "state": "Florida",
+      "customers": 18,
+      "orders": 24,
+      "units": 46
+    },
+    {
+      "state": "Washington",
+      "customers": 11,
+      "orders": 11,
+      "units": 16
+    },
+    {
+      "state": "Massachusetts",
+      "customers": 9,
+      "orders": 12,
+      "units": 28
+    },
+    {
+      "state": "Illinois",
+      "customers": 5,
+      "orders": 7,
+      "units": 11
+    },
+    {
+      "state": "Colorado",
+      "customers": 4,
+      "orders": 5,
+      "units": 9
+    }
+  ]
+}

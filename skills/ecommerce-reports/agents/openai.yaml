@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ecommerce Reports"
+  short_description: "Create and validate CEO and logistics Excel reports"
+  default_prompt: "Use $ecommerce-reports to inspect my orders, then create or validate the Excel report I request."
